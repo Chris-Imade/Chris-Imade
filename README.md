@@ -11,7 +11,7 @@ Nice to meet you! I'm Chris, a Frontend Developer with experimental knowlegde of
 | Data | Frontend | API |
 | :--- | :--- |:--- |
 | <img width="16px" src="[https://icon2.cleanpng.com/20180609/ryh/kisspng-firebase-cloud-messaging-google-cloud-messaging-api-as-a-service-5b1bf782ac0ca2.2103995315285594907047.jpg" />  `Firebase` | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  `React` | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />  `GraphQL` 
-| | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  `Typescript` | |
+| | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  `Typescript` | | | | <img width="16px" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" /> `Tailwindcss` |
 
 <br></br>
 ## Let's Be Friends
