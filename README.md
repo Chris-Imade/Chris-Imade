@@ -1,20 +1,3 @@
-### Hi there 👋
-
-**Chris-Imade/Chris-Imade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<!-- Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- -->
- 
- 
 ![banner](images/new_banner.png)
 <br></br>
 [![Linkedin: Chirs Imade](https://img.shields.io/badge/-Chris_Imade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chris-imade/)](https://www.linkedin.com/in/chris-imade/)
@@ -28,7 +11,7 @@ Nice to meet you! I'm Chris, a Frontend Developer with experimental knowlegde of
 | Data | Frontend | API |
 | :--- | :--- |:--- |
 | <img width="16px" src="[https://icon2.cleanpng.com/20180609/ryh/kisspng-firebase-cloud-messaging-google-cloud-messaging-api-as-a-service-5b1bf782ac0ca2.2103995315285594907047.jpg" />  `Firebase` | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  `React` | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />  `GraphQL` 
-| <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  `Typescript` |
+| | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  `Typescript` | |
 
 <br></br>
 ## Let's Be Friends
