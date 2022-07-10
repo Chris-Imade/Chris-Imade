@@ -1,4 +1,4 @@
-![banner](https://miro.medium.com/max/1200/1*tijYDzC59_wasLntTiBeSg.png](https://drive.google.com/file/d/1Rl17A0fipZzntj4eEQTGBNYcviSuIulo/view?usp=sharing)
+![banner](https://drive.google.com/file/d/1Rl17A0fipZzntj4eEQTGBNYcviSuIulo/view?usp=sharing)
 <br></br>
 [![Linkedin: Chirs Imade](https://img.shields.io/badge/-Chris_Imade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chris-imade/)](https://www.linkedin.com/in/chris-imade/)
 Nice to meet you! I'm Chris, a Frontend Developer with experimental knowlegde of JavaScript / React Multiverse, Tailwindcss and Firebase. I currently am curious about the backend and nerding out on learning python and web3. I'm passionate about learning, build and bringing awesome ideas to life. I constantly love to push beyond my limits. When not coding, you can find me reading watching action, adventure and mostly sci-fi movies, playing piano, guitar or taking naps. Oh and yes I love rap songs and legendary animes. 
