@@ -11,11 +11,11 @@ Nice to meet you! I'm Chris, a Frontend Developer with experimental knowlegde of
 | Data | Frontend | API |
 | :--- | :--- |:--- |
 | <img width="16px" src="[https://icon2.cleanpng.com/20180609/ryh/kisspng-firebase-cloud-messaging-google-cloud-messaging-api-as-a-service-5b1bf782ac0ca2.2103995315285594907047.jpg" />  `Firebase` | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  `React` | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />  `GraphQL` 
-| | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  `Typescript` | | 
+| <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />  `Mongodb` | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  `Typescript` | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> `Nodejs` | 
 
 <br></br>
 ## Let's Be Friends
-- 👂 Check out my calming, no-lyrics playlist I made for coders: [Brain Juice](https://open.spotify.com/playlist/4E9aUH5H21WFJy5deVYZT4?si=edf616c619774ca7)
+- 👂 Check out my portfolio website [Imade Jephthah](https://jephthah-portfolio.vercel.app)
 - 🔭 I’m currently working on a secret project with an incredible team! Unveiling 9/22/22
 - 🌱 I’m currently learning Nodejs
 - 👯 I’m looking to collaborate on open source projects!
@@ -23,7 +23,3 @@ Nice to meet you! I'm Chris, a Frontend Developer with experimental knowlegde of
 - 💬 Ask me about playing the piano and rap music, keep the cadence and the rhythm smooth.
 - 📫 How to reach me. I like making new friends and collaborating: imadechriswebdev@gmail.com
 - 😄 Pronouns: He/His
-
-<br></br>
-##
-![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chris-imade&show_icons=true&theme=cobalt)
