@@ -1,7 +1,7 @@
 ![banner](/banner.png)
 <br></br>
-[![Linkedin: Chirs Imade](https://img.shields.io/badge/-Chris_Imade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chris-imade/)](https://www.linkedin.com/in/chris-imade/)
-Nice to meet you! I'm Chris, a Frontend Developer with experimental knowlegde of JavaScript / React Multiverse, Tailwindcss and Firebase. I currently am curious about the backend and nerding out on learning python and web3. I'm passionate about learning, build and bringing awesome ideas to life. I constantly love to push beyond my limits. When not coding, you can find me reading watching action, adventure and mostly sci-fi movies, playing piano, guitar or taking naps. Oh and yes I love rap songs and legendary animes. 
+[![Linkedin: Chirs Imade](https://img.shields.io/badge/-Chris_Imade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chris-imade/)](https://www.linkedin.com/in/jephthah-imade-247514192/)
+Nice to meet you! I'm Chris, a front-end developer with experimental knowledge of JavaScript / React Multiverse, Tailwindcss, and Firebase. I currently am curious about the backend and nerding out on learning Python and web3. I'm passionate about learning, building, and bringing awesome ideas to life. I constantly love to push beyond my limits. When not coding, you can find me reading watching action, adventure, and mostly sci-fi movies, playing piano, guitar, or taking naps. Oh and yes I love rap songs and legendary animes. 
 
 <br></br>
 ## Technologies I Enjoy
@@ -15,7 +15,7 @@ Nice to meet you! I'm Chris, a Frontend Developer with experimental knowlegde of
 
 <br></br>
 ## Let's Be Friends
-- 👂 Check out my portfolio website [Imade Jephthah](https://jephthah-portfolio.vercel.app)
+- 👂 Check out my portfolio website [Imade Jephthah](https://jephthahs-portfolio.onrender.com/)
 - 🔭 I’m currently working on a secret project with an incredible team! Unveiling 9/22/22
 - 🌱 I’m currently learning Nodejs
 - 👯 I’m looking to collaborate on open source projects!
