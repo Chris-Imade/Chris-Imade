@@ -3,7 +3,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jephthah-imade-247514192/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:imadechriswebdev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:jephthahimade@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -43,14 +43,14 @@ I thrive on turning complex problems into scalable code. Whether it’s managing
 
 ## 📈 Engineering Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chris-Imade&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
 
 ## 🤝 Let's Connect
-- 🌐 **Portfolio**: [jephthahs-portfolio.onrender.com](https://jephthahs-portfolio.onrender.com/)
-- 📧 **Inquiries**: imadechriswebdev@gmail.com
+- 🌐 **Portfolio**: [Clever-Jeph](https://clever-jeph.pages.dev/)
+- 📧 **Inquiries**: jephthahimade@gmail.com
 - 💬 **Ask me about**: Smart Money Concepts (SMC), AI productivity tools, or the rhythm in a perfect rap verse.
 
 ---
