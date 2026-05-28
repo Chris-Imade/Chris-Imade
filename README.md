@@ -38,14 +38,6 @@ I thrive on turning complex problems into scalable code. Whether it’s managing
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
----
-
-## 📈 Engineering Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chris-Imade&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
 ---
 
 ## 🤝 Let's Connect
