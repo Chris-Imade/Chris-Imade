@@ -1,25 +1,60 @@
-![banner](/banner.png)
-<br></br>
-[![Linkedin: Chirs Imade](https://img.shields.io/badge/-Chris_Imade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chris-imade/)](https://www.linkedin.com/in/jephthah-imade-247514192/)
-Nice to meet you! I'm Chris, a front-end developer with experimental knowledge of JavaScript / React Multiverse, Tailwindcss, and Firebase. I currently am curious about the backend and nerding out on learning Python and web3. I'm passionate about learning, building, and bringing awesome ideas to life. I constantly love to push beyond my limits. When not coding, you can find me reading watching action, adventure, and mostly sci-fi movies, playing piano, guitar, or taking naps. Oh and yes I love rap songs and legendary animes. 
+# ⚡ Jephthah Imade
+### Founder & CEO at CleverCode Technology | Senior Software Engineer
 
-<br></br>
-## Technologies I Enjoy
+<p align="left">
+  <a href="https://www.linkedin.com/in/jephthah-imade-247514192/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:imadechriswebdev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-<div><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="[https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /> <img src="[https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> </div>
+---
 
-| Data | Frontend | API |
-| :--- | :--- |:--- |
-| <img width="16px" src="[https://icon2.cleanpng.com/20180609/ryh/kisspng-firebase-cloud-messaging-google-cloud-messaging-api-as-a-service-5b1bf782ac0ca2.2103995315285594907047.jpg" />  `Firebase` | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  `React` | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />  `GraphQL` 
-| <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />  `Mongodb` | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  `Typescript` | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> `Nodejs` | 
+## 🚀 About Me
+I am a **Software Engineer** with over 8 years of experience building production-grade digital infrastructure. While my roots are in the full-stack ecosystem, I am currently specializing in **Python and Distributed Backend Systems**. 
 
-<br></br>
-## Let's Be Friends
-- 👂 Check out my portfolio website [Imade Jephthah](https://jephthahs-portfolio.onrender.com/)
-- 🔭 I’m currently working on a secret project with an incredible team! Unveiling 9/22/22
-- 🌱 I’m currently learning Nodejs
-- 👯 I’m looking to collaborate on open source projects!
-- 🤔 I’m looking to find open source opportunities!
-- 💬 Ask me about playing the piano and rap music, keep the cadence and the rhythm smooth.
-- 📫 How to reach me. I like making new friends and collaborating: imadechriswebdev@gmail.com
-- 😄 Pronouns: He/His
+I thrive on turning complex problems into scalable code. Whether it’s managing high-concurrency traffic for major forums or building AI-augmented healthcare engines, my focus is always on **battle-tested, production-ready architecture**.
+
+- 🔭 **Current Focus**: High-performance Backend Systems, AI Integration, and Algorithmic Trading Engines.
+- 🛠️ **Engineering Philosophy**: Code should be "real," scalable, and void of unnecessary mocks.
+- 🎹 **Offline**: You’ll find me analyzing market liquidity, playing the piano, or exploring sci-fi worlds.
+
+---
+
+## 🛠️ Technical Stack
+
+### 🐍 Backend & Systems (Core Focus)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### ⚛️ Full-Stack Ecosystem
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🧪 Specialized & Tools
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+---
+
+## 📈 Engineering Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+- 🌐 **Portfolio**: [jephthahs-portfolio.onrender.com](https://jephthahs-portfolio.onrender.com/)
+- 📧 **Inquiries**: imadechriswebdev@gmail.com
+- 💬 **Ask me about**: Smart Money Concepts (SMC), AI productivity tools, or the rhythm in a perfect rap verse.
+
+---
+
+<p align="center">
+  <i>"Building the future, one commit at a time."</i>
+</p>
